@@ -1,6 +1,6 @@
 # smt_dashboard
 PowerBI dashboard for calculating different power plans against historical SmartMeterTexas consumption/generation
-Can help optimize PowerWall purchasing, but will 'use' more powerwall then you may actually have when calculating potential savings. Built more as a tool to visualize if you're copnsidering too many or too few PowerWalls to cover peak usage (PowerWall Avg (kWh).
+Can help optimize PowerWall purchasing, but will 'use' more powerwall then you may actually have when calculating potential savings. Built more as a tool to visualize if you're copnsidering too many or too few PowerWalls to cover peak usage (PowerWall Avg (kWh))
 
 TBD on adding PowerWall count into savings calculations.
 
